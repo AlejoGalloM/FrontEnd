@@ -1,0 +1,73 @@
+::-moz-selection {
+background:#e06d5e;
+}
+::selection {
+background:#e06d5e;
+}
+
+.navbar .brand a:hover {
+	color:dimgray;
+}
+
+
+
+ul#menu-main > li > a:hover {
+	color: dimgray;
+}
+
+
+ul#menu-main > li > a:focus,ul#menu-main > li > a:active, ul#menu-main > li > a.selected, ul#menu-main li a.selected:active    {
+	color: dimgray;
+}
+#header-wrapper h1 span {
+	color:dimgray;
+}
+
+#header-wrapper input[type=submit] {
+	background: dimgray !important;
+}
+
+#theme-form input[type=submit] {
+	background: dimgray !important;
+}
+
+.btn.btn-theme {
+	background: #26c8aa !important;
+}
+
+/* blog */
+.home-post .post-meta {
+	background: dimgray;
+}
+
+/* com */
+.tabbable ul.nav-tabs li.active a,.tabbable ul.nav-tabs li a:hover {
+	color: dimgray;
+}
+.accordion .accordion-heading a.active {
+	color: dimgray;
+}
+
+#tweet ul li a {
+	color: dimgray;
+}
+
+
+/* works */
+#filters ul li a:hover h5, #filters ul li a.active h5 {
+	background: dimgray;
+	border-color: dimgray;
+}
+
+.portfolio .portfolio-overlay {
+	background: dimgray;
+}
+
+/* icon */
+i.icon-bgdark:hover {
+	background: dimgray;
+}
+
+i.icon-bgdark.active {
+	background: #e06d5e;
+}
